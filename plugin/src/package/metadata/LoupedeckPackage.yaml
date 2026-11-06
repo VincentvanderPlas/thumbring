@@ -1,0 +1,18 @@
+type: plugin4
+name: Thumbring
+displayName: Thumbring
+description: Vibration bridge for the Thumbring overlay on the MX Master 4.
+pluginFileName: ThumbringPlugin.dll
+version: 0.1
+author: Vincent van der Plas
+copyright: Copyright 2026 Vincent van der Plas.
+pluginFolderWin: bin
+supportedDevices:
+    - LoupedeckCtFamily
+pluginCapabilities:
+    - HasHapticMapping
+minimumLoupedeckVersion: 6.0
+license: MIT
+licenseUrl: https://opensource.org/licenses/MIT
+supportPageUrl: https://github.com/VincentvanderPlas/thumbring/issues
+homePageUrl: https://github.com/VincentvanderPlas/thumbring

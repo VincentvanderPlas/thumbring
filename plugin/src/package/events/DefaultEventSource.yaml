@@ -1,0 +1,46 @@
+events:
+  - name: wf_sharp_state_change
+    displayName: sharp_state_change
+    description: Plays the sharp_state_change waveform
+  - name: wf_damp_state_change
+    displayName: damp_state_change
+    description: Plays the damp_state_change waveform
+  - name: wf_sharp_collision
+    displayName: sharp_collision
+    description: Plays the sharp_collision waveform
+  - name: wf_damp_collision
+    displayName: damp_collision
+    description: Plays the damp_collision waveform
+  - name: wf_subtle_collision
+    displayName: subtle_collision
+    description: Plays the subtle_collision waveform
+  - name: wf_happy_alert
+    displayName: happy_alert
+    description: Plays the happy_alert waveform
+  - name: wf_angry_alert
+    displayName: angry_alert
+    description: Plays the angry_alert waveform
+  - name: wf_completed
+    displayName: completed
+    description: Plays the completed waveform
+  - name: wf_square
+    displayName: square
+    description: Plays the square waveform
+  - name: wf_wave
+    displayName: wave
+    description: Plays the wave waveform
+  - name: wf_firework
+    displayName: firework
+    description: Plays the firework waveform
+  - name: wf_mad
+    displayName: mad
+    description: Plays the mad waveform
+  - name: wf_knock
+    displayName: knock
+    description: Plays the knock waveform
+  - name: wf_jingle
+    displayName: jingle
+    description: Plays the jingle waveform
+  - name: wf_ringing
+    displayName: ringing
+    description: Plays the ringing waveform

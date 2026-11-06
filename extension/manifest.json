@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Thumbring",
+  "version": "1.0",
+  "description": "Turns a Thumbring click into a jump to the tab you already have open.",
+  "permissions": ["tabs", "webNavigation"],
+  "background": { "service_worker": "background.js" }
+}
